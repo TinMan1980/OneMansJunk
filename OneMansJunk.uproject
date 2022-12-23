@@ -124,6 +124,10 @@
 		{
 			"Name": "XRVisualization",
 			"Enabled": true
+		},
+		{
+			"Name": "CascadeToNiagaraConverter",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
