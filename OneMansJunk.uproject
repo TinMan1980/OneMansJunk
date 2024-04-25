@@ -110,12 +110,7 @@
 		{
 			"Name": "VRIKBody",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c7314be54a7d49939c2dabc13fe1ffff",
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Android",
-				"Linux"
-			]
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c7314be54a7d49939c2dabc13fe1ffff"
 		},
 		{
 			"Name": "Water",
